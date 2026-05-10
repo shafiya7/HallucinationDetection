@@ -15,7 +15,7 @@ The model is trained on the FEVER dataset and evaluated on both structured verif
 
 ## Repository Contents
 
-- AI_Project_Code.ipynb — Complete end-to-end implementation
+- hallucination_detection.ipynb — Complete end-to-end implementation
 - AI_Final_Report.pdf — IEEE-style final report
 - graph1.png — Performance comparison visualization
 - README.md — Project documentation
